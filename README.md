@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### I'm Advait Nurani, An engineer from India
-#### 🌱 I’m currently learning : Machine Learning
-#### 💬 Ask me about MERN Stack
-#### ⚡ Fun fact: I love Star Wars and Chess
+#### 🌱 I’m currently learning : Machine Learning and DSA
+#### 💬 I have experience in MERN Stack and Python
+#### ⚡ Fun fact: I love Star Wars and playing Chess
 
 <!--
 **ADIVADER19/ADIVADER19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
