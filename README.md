@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advait Nurani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adivader19" alt="adivader19" /></a> </p>
 
