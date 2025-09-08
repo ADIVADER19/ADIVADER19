@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer and a Master's student in Computer Science at George Washington University.</h3>
 
 <p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/advait-nurani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,8 +18,8 @@
 ### 🌱 What I’m Currently Focused On
 
 I am currently pursuing my Master of Science in Computer Science, with a focus on cutting-edge topics.
-* **Academics:** Deepening my knowledge in **Machine Learning**, **Cloud Computing**, and advanced **Data Structures & Algorithms**.
-* **Personal Development:** Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architecture, and scalable system design.
+* [cite_start]**Academics:** Deepening my knowledge in **Machine Learning**, **Cloud Computing**, and advanced **Data Structures & Algorithms**. [cite: 6, 28]
+* [cite_start]**Personal Development:** Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architecture, and scalable system design. [cite: 66, 107]
 * **Looking for:** Full-time and co-op opportunities in Software Engineering, Full Stack Development, and Machine Learning roles.
 
 ---
@@ -71,31 +74,31 @@ I am currently pursuing my Master of Science in Computer Science, with a focus o
 ### 🚀 My Featured Projects
 
 #### 🤖 RentRadar - AI Real Estate Assistant
-* Engineered a full-stack AI-powered real estate CRM using FastAPI, React, and MongoDB, integrating OpenAI GPT-4 for intelligent property search.
-* Implemented a RAG architecture with FAISS and LangChain for sub-second semantic search over 1,000+ listings.
-* Architected a secure, JWT-based authentication system with role-based access control and Google OAuth via Firebase.
+* [cite_start]Engineered a full-stack AI-powered real estate CRM using FastAPI, React.js, and MongoDB, integrating OpenAI GPT-4 for intelligent property search and customer interaction. [cite: 65, 106]
+* [cite_start]Implemented a RAG (Retrieval-Augmented Generation) architecture with FAISS and LangChain for semantic document search, enabling real-time property matching from 1000+ commercial listings. [cite: 66, 107]
+* [cite_start]Architected a secure, JWT-based authentication system with role-based access control and Google OAuth via Firebase. [cite: 67, 107]
 
 #### 📝 SummaSense - AI Summarization Web App
-* Built a multilingual AI tool with Flask and NLP for summarizing text, audio, and video, featuring RESTful APIs for scalable cloud deployment.
-* Reduced execution time by 50% by pre-training and analyzing over 10 abstractive and extractive models.
-* Leveraged AWS S3 and Transcribe to build a robust pipeline for high-accuracy speech-to-text conversion.
+* [cite_start]Built a multilingual AI summarization tool with Flask and NLP, featuring RESTful APIs for scalable cloud deployment. [cite: 57, 97]
+* [cite_start]Reduced execution time by 50% by pre-training and analyzing over 10 abstractive and extractive models. [cite: 58, 98]
+* [cite_start]Leveraged AWS S3 and Transcribe to build a robust pipeline for high-accuracy speech-to-text conversion. [cite: 59, 99]
 
 #### 🎓 Institute Management System (IMS)
-* Constructed a comprehensive portal for 5,000+ students with a microservices architecture using Node.js, Express.js, Next.js, and MySQL.
-* Designed a SQL database with 14 tables to manage over 50,000 records, with 30+ optimized queries to automate resume generation and reporting, improving performance by up to 50%.
-* Ranked in the top 10 out of 725 entries at the CiiA-2 Innovations Exhibition.
+* [cite_start]Constructed a comprehensive portal for 5,000+ students with a microservices architecture using Node.js, Express.js, Next.js, and MySQL. [cite: 61]
+* [cite_start]Designed a SQL database with 14 tables to manage over 50,000 records, with 30+ optimized queries to automate resume generation and reporting, improving performance by up to 50%. [cite: 62]
+* [cite_start]Ranked in the top 10 out of 725 entries at the CiiA-2 Innovations Exhibition. [cite: 63]
 
 ---
 
 ### 💼 Professional Experience
 
-**Full Stack Developer Intern | Cognizant** (Nov 2023 - May 2024)
-* Engineered scalable backend services with .NET Framework and responsive front-end interfaces with Angular, improving system performance by 50% by implementing RESTful APIs.
-* Conducted code reviews, applied software engineering best practices, and participated in an Agile SDLC to ensure code quality and efficient CI/CD.
+**Full Stack Developer Intern | [cite_start]Cognizant** (Nov 2023 - May 2024) [cite: 41, 86]
+* [cite_start]Engineered scalable backend services with .NET Framework and responsive front-end interfaces with Angular, improving system performance by 50% by implementing RESTful APIs. [cite: 44, 45]
+* [cite_start]Conducted code reviews, applied software engineering best practices, and participated in an Agile SDLC to ensure code quality and efficient CI/CD. [cite: 46, 88]
 
-**Software Developer Intern | RAIT-ACM** (Dec 2021 - Jan 2022)
-* Developed a live polling website using WebSockets for real-time updates, which reduced database calls by 70% and boosted performance by 50%.
-* Set up a CI/CD pipeline using GitHub Actions, integrating automated testing and deployments, which reduced release time by 40% and contributed to securing 1st place in the internship project.
+**Software Developer Intern | [cite_start]RAIT-ACM** (Dec 2021 - Jan 2022) [cite: 48, 92]
+* [cite_start]Developed a live polling website using WebSockets for real-time updates, which reduced database calls by 70% and boosted performance by 50%. [cite: 53, 93]
+* [cite_start]Set up a CI/CD pipeline using GitHub Actions, integrating automated testing and deployments, which reduced release time by 40% and contributed to securing 1st place in the internship project. [cite: 54]
 
 ---
 
@@ -103,6 +106,8 @@ I am currently pursuing my Master of Science in Computer Science, with a focus o
 
 * Huge Star Wars fan (The Empire Strikes Back is a masterpiece!)
 * Passionate chess player. Always up for a game!
+* Paleo nerd and a big Barca fan.
+* Competitive Pokemon player.
 
 ---
 
@@ -113,7 +118,7 @@ I am currently pursuing my Master of Science in Computer Science, with a focus o
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivader19&show_icons=true&locale=en&layout=compact" alt="adivader19's Top Languages" />
-</p>
+p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adivader19&" alt="adivader19's GitHub streak" />
 </p>
