@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer and a Master's student in Computer Science at George Washington University.</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://advait-nurani.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/advait-nurani/">
