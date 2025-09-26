@@ -18,8 +18,8 @@
 ### 🌱 What I’m Currently Focused On
 
 I am currently pursuing my Master of Science in Computer Science, with a focus on cutting-edge topics.
-* [cite_start]**Academics:** Deepening my knowledge in **Machine Learning**, **Cloud Computing**, and advanced **Data Structures & Algorithms**. [cite: 6, 28]
-* [cite_start]**Personal Development:** Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architecture, and scalable system design. [cite: 66, 107]
+* **Academics:** Deepening my knowledge in **Machine Learning**, **Cloud Computing**, and advanced **Data Structures & Algorithms**. [cite: 6, 28]
+* **Personal Development:** Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architecture, and scalable system design. [cite: 66, 107]
 * **Looking for:** Full-time and co-op opportunities in Software Engineering, Full Stack Development, and Machine Learning roles.
 
 ---
